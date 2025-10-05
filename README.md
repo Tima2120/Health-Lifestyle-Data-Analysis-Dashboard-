@@ -4,7 +4,7 @@ This project analyzes how lifestyle factors — such as **BMI, sleep, cholestero
 The dataset was cleaned and analyzed in **Excel**, and visualized using **Tableau** to uncover insights by **gender** and **age group**.
 
 🔗 **View the interactive dashboard:**  
-👉 [Tableau Public Link]([https://public.tableau.com/app/profile/yourname/viz/HealthDashboard](https://public.tableau.com/app/profile/tymofii.reutov/viz/HealthLifestyleDataAnalysisDashboard/Dashboard1))
+👉 [Tableau Public Link](https://public.tableau.com/app/profile/tymofii.reutov/viz/HealthLifestyleDataAnalysisDashboard/Dashboard1)
 
 ---
 
@@ -17,7 +17,7 @@ The dataset was cleaned and analyzed in **Excel**, and visualized using **Tablea
 ---
 
 ## 🧩 Data  
-**Source:** anonymized dataset (`health_lifestyle_data_clean.xlsx`)  
+**Source:** anonymized dataset (`health_lifestyle_data_clean.csv`)  
 **Fields include:**  
 - BMI, cholesterol, daily_steps, sleep_hours  
 - gender, age_group, family_history, disease_risk  
@@ -53,7 +53,7 @@ The dataset was cleaned and analyzed in **Excel**, and visualized using **Tablea
 
 | Average Health Indicators | Disease Risk by BMI |
 |----------------------------|----------------------|
-| ![avg_health](screenshots/avg_health_indicators.png) | ![bmi_risk](screenshots/bmi_risk_chart.png) |
+| ![avg_health](avg_health_indicators.png) | ![bmi_risk](bmi_risk_chart.png) |
 
 ---
 
@@ -65,7 +65,7 @@ Full analytical report (PDF): [You can see here](https://docs.google.com/documen
 ## 🧑‍💻 Author  
 **Tymofii**  
 [LinkedIn](www.linkedin.com/in/tymofii-reutov-37b391370) | 
-[Tableau Public]([https://public.tableau.com/app/profile/yourname](https://public.tableau.com/app/profile/tymofii.reutov/vizzes))
+[Tableau Public](https://public.tableau.com/app/profile/tymofii.reutov/vizzes)
 
 ---
 
